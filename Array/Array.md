@@ -10,7 +10,9 @@
 <br>
 <strong>*Water can flow from top to bottom, diagonally, horizontally as well. Only flowing from bottom to top is not possible.*</strong>
 <br>
-<strong><p>You will be give the wall by as a 2-D array of NxN with 1 representing opaque and 0 representing porus.</p></strong> 
+<strong><p>You will be given the wall as a 2-D array of NxN with 1 representing opaque and 0 representing porus.
+You have to predict weather the will water reach bottom or not.
+</p></strong>
 <br>
 
 ## Application of array
