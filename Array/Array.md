@@ -6,11 +6,11 @@
 <img src="http://slideplayer.com/slide/3267750/11/images/2/What+is+an+Array+Group+of+variables+or+constants,+all+of+the+same+type,+referred+to+by+a+single+name..jpg" style="height: 80%; width: 80%;">
 
 ## Question
-*Given a wall, which is made up of two types of bricks (Porus / opaque ). Porus bricks allow water pass through them. Opaque won't. Find whether water reaches to ground, if there is any rainfall.*
+<strong>*Given a wall, which is made up of two types of bricks (Porus / opaque ). Porus bricks allow water pass through them. Opaque won't. Find whether water reaches to ground, if there is any rainfall.*</strong>
 <br>
-*Water can flow from top to bottom, diagonally, horizontally as well. Only flowing from bottom to top is not possible.*
+<strong>*Water can flow from top to bottom, diagonally, horizontally as well. Only flowing from bottom to top is not possible.*</strong>
 <br>
-<p>You will be give the wall by as a 2-D array of NxN with 1 representing opaque and 0 representing porus.</p> 
+<strong><p>You will be give the wall by as a 2-D array of NxN with 1 representing opaque and 0 representing porus.</p></strong> 
 <br>
 
 ## Application of array
