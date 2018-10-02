@@ -3,8 +3,10 @@ A month Long coding challenge from basics to advanced concepts of Data-structure
 
 ## How to participate
 
-Each Data-structue has a separte directory. The directory contains a readme giving a brief introduction about the topic and a intermediate level question on it.
-You can submit your *working solution* in which ever language you please as pull request targeting that directory also update the readme with your name and solution. We will verify your solution before accepting the pull request.
+- You can submit any Algorithm or Implementation for any Data-Structure in the particular folder. You can 	  use any programming Language.
+- You must save thel file in a particular format i.e, <Algo name> + <Your name> 
+  for example - If Pratham is submitting a code for binary search then it will be named as BinarySearchPratham.cpp
+
 
 ## How to Learn
 
